@@ -1,6 +1,6 @@
 # matematicas
 
-[![Binder](https://mybinder.org/v2/gh/jgomezc1/matematicas/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgomezc1/matematicas/master)
 
 Repositorio con Notebooks y algunas actividades del curso Matemáticas Avanzadas para Ingenieros en la Universidad EAFIT.
 
