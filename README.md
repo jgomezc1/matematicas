@@ -6,5 +6,3 @@ Repositorio con Notebooks y algunas actividades del curso Matemáticas Avanzadas
 
 
 * [problema introductorio](https://nbviewer.jupyter.org/github/jgomezc1/matematicas/blob/master/clase_01_instalcion/nb03_problema_introductorio.ipynb)
-
-* [Repo_completo](https://nbviewer.jupyter.org/github/jgomezc1/matematicas/tree/master/)
